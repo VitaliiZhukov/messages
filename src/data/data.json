@@ -1,0 +1,26 @@
+{  
+   "success":true,
+   "error":"",
+   "values":[  
+      {  
+         "text":"Yeah, we are going to Bali, Indonesia for honeymoon. That is a great place, you should visit!",
+         "date":"2016-03-31 17:30:00",
+         "avatar":"http:\/\/ia.media-imdb.com\/images\/M\/MV5BMjI0MTg3MzI0M15BMl5BanBnXkFtZTcwMzQyODU2Mw@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+      },
+      {  
+         "text":"Hi Leo!",
+         "date":"2016-01-01 17:30:00",
+         "avatar":"http:\/\/ia.media-imdb.com\/images\/M\/MV5BMTU4Mjk5MDExOF5BMl5BanBnXkFtZTcwOTU1MTMyMw@@._V1._SX40_CR0,0,40,54_.jpg"
+      },
+      {  
+         "text":"Hi Meryl!",
+         "date":"2016-01-02 17:30:00",
+         "avatar":"http:\/\/ia.media-imdb.com\/images\/M\/MV5BMjI0MTg3MzI0M15BMl5BanBnXkFtZTcwMzQyODU2Mw@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+      },
+      {  
+         "text":"Have you decided about the Honeymoon?",
+         "date":"2016-01-02 17:40:00",
+         "avatar":"http:\/\/ia.media-imdb.com\/images\/M\/MV5BMTU4Mjk5MDExOF5BMl5BanBnXkFtZTcwOTU1MTMyMw@@._V1._SX40_CR0,0,40,54_.jpg"
+      }
+   ]
+}

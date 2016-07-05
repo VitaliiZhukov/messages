@@ -1,0 +1,21 @@
+.message-component {
+  border: 1px Solid LightGray;
+  padding: 10px;
+  margin: 10px;
+
+  .message__avatar {
+  	float: left;
+  }
+  .message__date {
+  	font-size: 0.7em;
+  	font-style: italic;
+  	color: Gray;
+  }
+}
+
+.message-component:after {
+  content: '';
+  clear: both;
+  display: table;
+}
+
